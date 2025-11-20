@@ -170,7 +170,8 @@ endmodule
 ## Simulation Results
 
 
-![Uploading WhatsApp Image 2025-11-19 at 14.40.27_39483fab.jpg…]()
+![WhatsApp Image 2025-11-19 at 14 40 27_39483fab](https://github.com/user-attachments/assets/2cbd0672-206c-4f00-bc23-40a58d5695be)
+
 
 ## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
